@@ -1,0 +1,6 @@
+cdifflib==1.2.5
+imbalanced-learn==0.8.0
+scikit-learn==1.0.1
+streamlit==1.1.0
+pytz-deprecation-shim==0.1.0.post0
+sacremoses==0.0.45
